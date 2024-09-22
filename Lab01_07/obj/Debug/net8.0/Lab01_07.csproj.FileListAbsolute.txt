@@ -1,0 +1,14 @@
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\bin\Debug\net8.0\Lab01_07.exe
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\bin\Debug\net8.0\Lab01_07.deps.json
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\bin\Debug\net8.0\Lab01_07.runtimeconfig.json
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\bin\Debug\net8.0\Lab01_07.dll
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\bin\Debug\net8.0\Lab01_07.pdb
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\obj\Debug\net8.0\Lab01_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\obj\Debug\net8.0\Lab01_07.AssemblyInfoInputs.cache
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\obj\Debug\net8.0\Lab01_07.AssemblyInfo.cs
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\obj\Debug\net8.0\Lab01_07.csproj.CoreCompileInputs.cache
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\obj\Debug\net8.0\Lab01_07.dll
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\obj\Debug\net8.0\refint\Lab01_07.dll
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\obj\Debug\net8.0\Lab01_07.pdb
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\obj\Debug\net8.0\Lab01_07.genruntimeconfig.cache
+C:\Users\Maksi\OneDrive\Рабочий стол\Разработка ПО\MeleksenkoM.S\Lab01_07\obj\Debug\net8.0\ref\Lab01_07.dll
